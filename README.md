@@ -19,6 +19,7 @@ The focus is on:
 
 ### Top Teams
 ![Bar Chart 2019](images/bar_2019.png)
+
 ![Bar Chart 2023](images/bar_2013.png)
 
 
