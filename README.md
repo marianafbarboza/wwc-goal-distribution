@@ -40,4 +40,4 @@ The focus is on:
 
 ## 🔗 Related Article
 
-Read the full analysis on Medium: [link]
+Read the full analysis on Medium: [link](https://medium.com/@mariana.barboza/mais-gols-mas-para-quem-732e2350bd22).
