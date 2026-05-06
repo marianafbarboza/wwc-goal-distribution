@@ -9,20 +9,13 @@ The focus is on:
 
 ## 📈 Key Insights
 
-- The top 3 teams scored:
-  - **34.9%** of goals in 2019  
-  - **28.7%** in 2023  
+- Top 3 teams scored 34.9% of goals in 2019
+- In 2023, this dropped to 28.7%
+- Goal scoring became less concentrated
 
 👉 Goal concentration decreased, suggesting a more balanced tournament.
 
 ## 📊 Visualizations
-
-### Top Teams
-
-![Bar Chart 2019](images/bar_2019.png)
-
-![Bar Chart 2023](images/bar_2023.png)
-
 
 ### Changes Between Editions
 ![Dumbbell](images/dumbbell.png)
